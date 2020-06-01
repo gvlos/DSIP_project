@@ -1,6 +1,6 @@
 # Tennis ball tracking using Kalman filter
 
-Digital Signal & Image Processing: Final Project - University of Genoa - Fall 2019
+Digital Signal & Image Processing: University of Genoa 90520 - Fall 2019 - Final project
 
 <br>
 
